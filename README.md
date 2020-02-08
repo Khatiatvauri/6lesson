@@ -1,2 +1,1 @@
-# 6lesson
-positions
+# lesson-6
